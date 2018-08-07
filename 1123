@@ -1,0 +1,16 @@
+#include<stdio.h>
+void main()
+{
+    int num;
+    printf("enter the num");
+    scanf("%d",&num);
+    printf("entered number is %d",num);
+    return 0;
+}
+
+
+
+  output
+enter the num1123                                                                                                              
+entered number is 1123                                                                                                         
+                            
